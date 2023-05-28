@@ -1,0 +1,6 @@
+--------------------------------------------------------------------------------
+name:	workroom_linoleum_database_seq0054
+infos:	110 poses, 63.393m path length, 3.633s duration
+--------------------------------------------------------------------------------
+name:	groundtruth
+infos:	110 poses, 63.407m path length, 3.633s duration

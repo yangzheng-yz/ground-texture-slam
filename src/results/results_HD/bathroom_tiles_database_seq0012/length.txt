@@ -1,0 +1,6 @@
+--------------------------------------------------------------------------------
+name:	bathroom_tiles_database_seq0012
+infos:	65 poses, 31.510m path length, 2.133s duration
+--------------------------------------------------------------------------------
+name:	groundtruth
+infos:	65 poses, 31.483m path length, 2.133s duration

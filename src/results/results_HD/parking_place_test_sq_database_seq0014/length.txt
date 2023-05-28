@@ -1,0 +1,6 @@
+--------------------------------------------------------------------------------
+name:	parking_place_test_sq_database_seq0014
+infos:	21 poses, 9.587m path length, 0.667s duration
+--------------------------------------------------------------------------------
+name:	groundtruth
+infos:	21 poses, 9.560m path length, 0.667s duration

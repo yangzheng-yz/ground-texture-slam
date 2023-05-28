@@ -1,0 +1,6 @@
+--------------------------------------------------------------------------------
+name:	garage_concrete_database_seq0010
+infos:	87 poses, 46.029m path length, 2.867s duration
+--------------------------------------------------------------------------------
+name:	groundtruth
+infos:	87 poses, 48.779m path length, 2.867s duration

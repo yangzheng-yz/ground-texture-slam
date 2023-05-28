@@ -1,0 +1,11 @@
+APE w.r.t. translation part (m)
+(with Sim(3) Umeyama alignment)
+
+       max	2.557468
+      mean	0.963127
+    median	0.994975
+       min	0.266285
+      rmse	1.089468
+       sse	40.355981
+       std	0.509242
+

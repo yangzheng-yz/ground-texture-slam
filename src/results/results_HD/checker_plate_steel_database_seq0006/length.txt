@@ -1,0 +1,6 @@
+--------------------------------------------------------------------------------
+name:	checker_plate_steel_database_seq0006
+infos:	201 poses, 165.653m path length, 6.667s duration
+--------------------------------------------------------------------------------
+name:	groundtruth
+infos:	201 poses, 106.276m path length, 6.667s duration

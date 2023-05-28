@@ -1,0 +1,6 @@
+--------------------------------------------------------------------------------
+name:	terrace_pavement_database_seq0057
+infos:	196 poses, 359.203m path length, 6.500s duration
+--------------------------------------------------------------------------------
+name:	groundtruth
+infos:	196 poses, 126.369m path length, 6.500s duration

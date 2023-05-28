@@ -1,0 +1,6 @@
+--------------------------------------------------------------------------------
+name:	office_test_sq_database_seq0018
+infos:	19 poses, 9.097m path length, 0.600s duration
+--------------------------------------------------------------------------------
+name:	groundtruth
+infos:	19 poses, 9.064m path length, 0.600s duration

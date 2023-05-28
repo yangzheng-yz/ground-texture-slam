@@ -1,0 +1,6 @@
+--------------------------------------------------------------------------------
+name:	footpath_test_sq_database_seq0003
+infos:	14 poses, 7.191m path length, 0.467s duration
+--------------------------------------------------------------------------------
+name:	groundtruth
+infos:	15 poses, 7.205m path length, 0.467s duration

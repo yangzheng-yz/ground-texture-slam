@@ -1,0 +1,6 @@
+--------------------------------------------------------------------------------
+name:	ramp_rubber_database_seq0026
+infos:	43 poses, 18.904m path length, 1.400s duration
+--------------------------------------------------------------------------------
+name:	groundtruth
+infos:	43 poses, 15.051m path length, 1.400s duration

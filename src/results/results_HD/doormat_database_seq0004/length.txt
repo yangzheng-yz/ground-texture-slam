@@ -1,0 +1,6 @@
+--------------------------------------------------------------------------------
+name:	doormat_database_seq0004
+infos:	38 poses, 22.287m path length, 1.233s duration
+--------------------------------------------------------------------------------
+name:	groundtruth
+infos:	38 poses, 19.429m path length, 1.233s duration

@@ -1,0 +1,1 @@
+[ERROR] Degenerate covariance rank, Umeyama alignment is not possible

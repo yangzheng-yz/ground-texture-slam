@@ -1,0 +1,6 @@
+--------------------------------------------------------------------------------
+name:	kitchen_test_sq_database_seq0027
+infos:	31 poses, 9.778m path length, 1.000s duration
+--------------------------------------------------------------------------------
+name:	groundtruth
+infos:	31 poses, 9.738m path length, 1.000s duration
